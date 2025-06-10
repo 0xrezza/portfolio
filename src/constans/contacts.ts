@@ -4,7 +4,7 @@ export const contacts = [
     name: "Github",
     Icon: Github,
     classname: "hover:text-emerald-400",
-    link:"https://github.com/0xre2a"
+    link:"https://github.com/0xrezza"
   },
   {
     name: "LinkedIn",
